@@ -31,7 +31,7 @@
 
 ## 🚀 Demo
 
-*(Add a GIF or link to a live demo here)*
+
 
 ---
 
